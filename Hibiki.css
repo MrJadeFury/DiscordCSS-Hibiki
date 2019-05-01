@@ -1,5 +1,8 @@
 /* Variables */
 :root{
-    --main-text-color: #lightblue;
+    --main-text-color: rgb(188, 212, 219);
 }
 
+.theme-dark .markup-2BOw-j{
+    color: var(--main-text-color);
+}
