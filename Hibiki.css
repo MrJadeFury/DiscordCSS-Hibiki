@@ -7,6 +7,6 @@
     color: var(--main-text-color);
 }
 
-#app-mount{
+.appMount{
     background-image: url(https://i.imgur.com/iVcXxbK.jpg) !important;
 }
